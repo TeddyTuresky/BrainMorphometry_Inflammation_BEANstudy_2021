@@ -4,7 +4,7 @@ This repository houses code (or links to code) used for the following study:
 
 ##### *Ted K. Turesky, Laura Pirazzoli, Talat Shama, Shahria Hafiz Kakon, Rashidul Haque, Nazrul Islam, Amala Someshwar, Borjan Gagoski, William A. Petri, Charles A. Nelson, Nadine Gaab (2021) Brain Morphometry and Chronic Inflammation in Bangladeshi Children Growing up in Extreme Poverty, BioRxiv*
 
-The dataset that underwent the processing/analysis pipeline described below is availabe here: https://openneuro.org/datasets/ds003877/versions/1.0.1.
+The processing pipeline used here is partially overlapping with that described in https://github.com/TeddyTuresky/BrainMorphometry_DiminishedGrowth_BEANstudy_2021. Both studies rely on data that are openly available here: https://openneuro.org/datasets/ds003877/versions/1.0.1. 
 
 All code was implemented on MacOSX and customized to the input for this particular study, but can by adapted be replacing pertinent paths, filenames, etc.
 
