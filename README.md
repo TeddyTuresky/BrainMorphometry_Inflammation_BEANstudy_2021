@@ -26,14 +26,13 @@ As the surface-based measures we analyzed were originally output as 31 (cortical
 For statistical analyses, the following code was used:
 
     .
-    ├── anthroSemiPart.m                                        <-- Matlab function for semi-partial correlations
-    ├── anthroMeds.R                                            <-- R script for mediation analyses. Requires input of *.csv file of measures
+    ├── inflamSemiPart.m                                        <-- Matlab function for semi-partial correlations
+    ├── inflamMeds.R                                            <-- R script for mediation analyses. Requires input of *.csv file of measures
 
 For visualizations, the following code was used:
 
     .
-    ├── anthroMeds.R                                            <-- R script for rendering brain maps of areas significant in semi-partial correlation analyses
-    ├── anthroMeds.R                                            <-- R script for rendering brain maps of areas significant in the mediation analyses
+    ├── inflamPlottingRegionsMeds.R                             <-- R script for rendering brain maps of areas significant in the mediation analyses
 
 
 For questions, please contact theodore_turesky(at)gse.harvard.edu
